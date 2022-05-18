@@ -1,6 +1,6 @@
 <img align="left" width="150" height="150" src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f3ae.png" alt="shitnthshows">
 
-# Memory Game using all photos of professor who taught me before
+# Memory Game
 
 Memory game in C#, using <a href="https://en.wikipedia.org/wiki/Windows_Presentation_Foundation">WPF</a>. This is a standard, but imperfect simple GUI memory game in C# using WPF. It is written without know the language and the tools and I have no idea what I was doing. 
 
