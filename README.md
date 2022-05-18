@@ -14,6 +14,3 @@ You need Visual Studio ≥2019
 * Star
 * Fork
 * Contribute (Nothing to contribute TBH)
-
-## License
-This repository is licensed under MIT License. See also [LICENSE](LICENSE) for details.
